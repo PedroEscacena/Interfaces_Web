@@ -1,0 +1,50 @@
+.div_{
+    color: white;
+    background-color:blue;
+    width: 170px;
+    height: 70px;
+    display: inline-block;
+    text-align: center;
+    line-height: 70px;
+}
+
+.div_uno{
+    border-radius: 0 0 50px 0;
+}
+
+.div2{
+    border-radius: 0 0 40% 0;
+}
+
+.div3{
+    border-radius: 0 0 2em 0;
+}
+
+.div4{
+    border-radius: 30px 100px;
+    width: 200px;
+    height: 80px;
+}
+
+.div5{
+    border-radius: 15px;
+}
+
+.div6{
+    width: 70px;
+    border-radius: 500px;
+}
+footer {
+    background-color: rgb(62, 69, 71);
+    height: 150px;
+    color: white;
+    z-index: 1;
+}
+.autor {
+    position: relative;
+    top: 50px;
+    margin: 10px;
+}
+main div {
+    margin-bottom: 50px;
+}

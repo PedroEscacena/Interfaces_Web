@@ -1,0 +1,41 @@
+header {
+    background-color: rgb(83, 134, 154);
+    height: 100px;
+}
+ul:first-child{
+    font-weight: bold;
+}
+
+li:first-of-type{
+    color: blue;
+}
+
+li:nth-of-type(3){
+    font-size: 20px;
+}
+
+li:nth-last-of-type(2){
+    font-size: 30px;
+}
+
+li:last-child{
+    font-size: 40px;
+}
+
+li:last-of-type{
+    color: blue;
+}
+footer {
+    background-color: rgb(62, 69, 71);
+    height: 150px;
+    color: white;
+    z-index: 1;
+}
+.autor {
+    position: relative;
+    top: 50px;
+    margin: 10px;
+}
+main div {
+    margin-bottom: 50px;
+}

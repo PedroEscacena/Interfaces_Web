@@ -1,0 +1,61 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    box-sizing: border-box;
+}
+
+.imagenes {
+    width: 60%;
+    border: 5px black;
+}
+
+.verificado {
+    display: none;
+}
+
+
+.h2_principal {
+    font-variant: small-caps;
+}
+th {
+    border: 1px solid rgb(62, 69, 71);
+}
+main {
+    text-align: center;
+}
+
+header {
+    background-color: rgb(83, 134, 154);
+    height: 100px;
+}
+
+.imagen_logo {
+    width: 95px;
+    margin-top: 9px;
+}
+
+.div_pagina_personal {
+    color: white;
+    float: left;
+}
+#web div{
+    border: 1px solid rgb(62, 69, 71);
+}
+.div_imagen {
+    display: inline;
+}
+
+
+footer {
+    background-color: rgb(62, 69, 71);
+    height: 150px;
+    color: white;
+    z-index: 1;
+}
+.autor {
+    position: relative;
+    top: 50px;
+    margin: 10px;
+}
+main div {
+    margin-bottom: 50px;
+}
